@@ -1,2 +1,2 @@
 # Lab3-GitHubTutorial
-For school
+Reposity create for CSC221 Lab3 2023SP
